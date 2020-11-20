@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dff80fb-730c-4ab8-bfeb-7657868b4a1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kMZzvE6pHtKrOM47mHnvmjUeEO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb_pro01/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAProjects\JavawebLearn\javaweb_pro01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEAProjects\JavawebLearn\javaweb_pro01\static" />
+      <recent name="E:\IDEAProjects\JavawebLearn\jqLearn" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dff80fb-730c-4ab8-bfeb-7657868b4a1e" name="Default Changelist" comment="" />
+      <created>1605512686612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605512686612</updated>
+      <workItem from="1605512689445" duration="1018000" />
+      <workItem from="1605659102249" duration="5552000" />
+      <workItem from="1605749008900" duration="5100000" />
+      <workItem from="1605833510691" duration="4698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2431" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605835831535">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2431" y="215" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1605835831535" />
+    <state x="2369" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605833703712">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2369" y="236" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1605833703712" />
+    <state x="2098" y="136" key="new project wizard" timestamp="1605835814706">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="2098" y="136" key="new project wizard/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1605835814706" />
+  </component>
+</project>
