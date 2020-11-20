@@ -48,6 +48,7 @@
 				let code = $("#code").val();
 				//去除前后空格
 				code=$.trim(code);
+				//判断是否为空
 				if(code=="" || code==null){
 					$(".errorMsg").text("验证码错误");
 					return false;
