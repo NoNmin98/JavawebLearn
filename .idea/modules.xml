@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/JavawebLearn.iml" filepath="$PROJECT_DIR$/JavawebLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb_pro01/javaweb_pro01.iml" filepath="$PROJECT_DIR$/javaweb_pro01/javaweb_pro01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jqLearn/jqLearn.iml" filepath="$PROJECT_DIR$/jqLearn/jqLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockettest_forclass/sockettest_forclass.iml" filepath="$PROJECT_DIR$/sockettest_forclass/sockettest_forclass.iml" />
     </modules>
   </component>
 </project>
